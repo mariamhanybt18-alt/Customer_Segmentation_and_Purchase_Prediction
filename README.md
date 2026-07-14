@@ -1,5 +1,7 @@
 # Customer Segmentation and Purchase Prediction
 
+![Customer Segmentation](customer_segmentation.png)
+
 ## 📌 Project Overview
 
 This project focuses on customer segmentation and purchase prediction using machine learning techniques. It combines K-Means clustering to identify customer groups and a Random Forest classifier to predict customer purchase behavior based on marketing data.
@@ -48,5 +50,13 @@ The project uses a marketing customer dataset containing customer demographics, 
 7. Model Evaluation
 8. Business Insights
 6. Purchase Prediction using Random Forest
-7. Model Evaluation
-8. Business Insights
+
+---
+
+## 📈 Marketing Recommendation
+
+Based on the customer segmentation results, the project recommends personalized marketing strategies for each customer segment to improve customer engagement and purchase performance.
+
+![Marketing Recommendation](marketing_recommendation.png)
+8. Model Evaluation
+9. Business Insights
