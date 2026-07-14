@@ -52,11 +52,10 @@ The project uses a marketing customer dataset containing customer demographics, 
 6. Purchase Prediction using Random Forest
 
 ---
-
 ## 📈 Marketing Recommendation
 
 Based on the customer segmentation results, the project recommends personalized marketing strategies for each customer segment to improve customer engagement and purchase performance.
 
 ![Marketing Recommendation](marketing_recommendation.png)
-8. Model Evaluation
+![Marketing Recommendation](marketing_recommendation.png)
 9. Business Insights
